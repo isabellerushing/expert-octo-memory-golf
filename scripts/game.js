@@ -67,10 +67,6 @@ const charlieGames = [
    gameName:"Charlie",
    url:"https://mohammedalrasheidi.github.io/Delta-lab/"},
 
-  {name:"Grant Hartley", 
-   gameName:"echo",
-   url:"https://github.com/hrantgartley/jubilant-bassoon-echo"},
-
   {name:"Ayman Alluhaybi", 
    gameName:"CHARLIE",
    url:"https://aalluhaybi1.github.io/CHARLIE_LAB/"},
@@ -160,14 +156,6 @@ const deltaGames = [
   {name:"Mandy McGinnis", 
    gameName:"Spirit Animal Delta",
    url:"https://github.com/mmandelyn/pink-panda-delta"},
-
-  {name:"Skyler Saunders", 
-   gameName:"animated-sniffle-foxtrot",
-   url:"https://skysaunders.github.io/animated-sniffle-foxtrot/"},
-
-  {name:"Candice Buford", 
-   gameName:"Glowing Giggle Lab",
-   url:"https://cbuf0rd.github.io/glowing-giggle-echo-lab/"},
   
   {name:"Mohammed Alrasheidi", 
    gameName:"Delta",
@@ -200,4 +188,19 @@ const deltaGames = [
   {name:"Isabelle Rushing", 
    gameName:"delta",
    url:"https://isabellerushing.github.io/crispy-octo-carnival-delta/"}
+];
+
+const otherGames = [
+  {name:"Candice Buford", 
+  gameName:"Glowing Giggle Echo Lab",
+  url:"https://cbuf0rd.github.io/glowing-giggle-echo-lab/"},
+  
+  {name:"Grant Hartley", 
+   gameName:"echo",
+   url:"https://github.com/hrantgartley/jubilant-bassoon-echo"},
+
+  {name:"Skyler Saunders", 
+  gameName:"animated-sniffle-foxtrot",
+  url:"https://skysaunders.github.io/animated-sniffle-foxtrot/"}
+
 ];
