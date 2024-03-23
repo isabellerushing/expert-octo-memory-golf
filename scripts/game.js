@@ -63,10 +63,6 @@ const charlieGames = [
    gameName:"super-adventure-charlie",
    url:"https://skysaunders.github.io/super-adventure-charlie/"},
 
-  {name:"Candice Buford", 
-   gameName:"Glowing Giggle Echo Lab",
-   url:"https://cbuf0rd.github.io/glowing-giggle-echo-lab/"},
-
   {name:"Mohammed Alrasheidi", 
    gameName:"Charlie",
    url:"https://mohammedalrasheidi.github.io/Delta-lab/"},
@@ -170,9 +166,9 @@ const deltaGames = [
    url:"https://skysaunders.github.io/animated-sniffle-foxtrot/"},
 
   {name:"Candice Buford", 
-   gameName:"Glowing Giggle Echo Lab",
+   gameName:"Glowing Giggle Lab",
    url:"https://cbuf0rd.github.io/glowing-giggle-echo-lab/"},
-
+  
   {name:"Mohammed Alrasheidi", 
    gameName:"Delta",
    url:"https://mohammedalrasheidi.github.io/Delta-lab/"},
